@@ -1,0 +1,100 @@
+﻿Facility Type,Count,Mean,Standard Deviation,Min,25th Percentile,50th Percentile,75th Percentile,Max
+Summary,801108,87,111,1,45,63,91,3133
+Vacant,0,,,,,,,
+Commercial - Uncategorized,3788,132,139,7,71,99,146,2028
+Commercial - Unknown,870,215,278,3,69,130,243,2648
+Office - Uncategorized,17760,193,167,2,124,166,210,3072
+Office - Administrative or Professional,98,215,154,28,131,173,255,1240
+Office - Bank or other financial,2042,246,116,16,170,233,302,2434
+Office - Government,804,161,135,3,100,134,186,2400
+Office - Medical non diagnostic,632,241,146,13,153,208,291,1268
+Office - Mixed use,173,179,84,27,137,168,208,633
+Office - Other,51,215,179,2,117,165,248,963
+Laboratory,844,570,310,6,350,538,737,2861
+Warehouse - Uncategorized,326,81,74,3,34,64,104,622
+Warehouse - Refrigerated,266,198,187,8,69,136,266,1251
+Warehouse - Non-refrigerated,1208,98,147,1,33,63,114,2482
+Warehouse - Distribution or Shipping center,1040,85,100,4,29,60,108,1526
+Warehouse - Self-storage,831,27,42,2,7,13,28,508
+Food Sales,3937,298,57,4,274,295,318,1688
+Convenience store,63,699,363,122,383,622,1014,1536
+Convenience store with gas station,82,1015,463,89,735,1014,1266,2863
+Grocery store or food market,1891,505,198,6,411,486,587,1974
+Public Safety - Uncategorized,54,200,173,3,113,176,233,1189
+Public Safety - Courthouse,297,157,67,19,115,143,183,503
+Public Safety - Fire or police station,640,221,129,9,145,199,264,1241
+Public Safety - Jailhouse,0,,,,,,,
+Public Safety - Penitentiary,140,249,264,4,147,211,302,2958
+Health Care - Uncategorized,71,243,406,7,54,122,282,3133
+Health Care - Outpatient Uncategorized,144,237,162,22,140,203,278,870
+Health Care - Outpatient Diagnostic,10,303,234,37,109,264,487,673
+Health Care - Outpatient Clinic,72,251,148,20,143,221,296,666
+Health Care - Inpatient,806,389,166,7,304,383,477,2217
+Religious worship,354,88,62,3,48,76,108,503
+Public Assembly - Uncategorized,126,305,324,7,128,234,362,2264
+Public Assembly - Entertainment/culture,128,240,280,19,103,197,314,2913
+Public Assembly - Movie Theater,87,229,78,26,181,227,269,435
+Public Assembly - Drama theater,72,207,114,22,137,195,274,609
+Public Assembly - Large Hall,61,173,149,19,82,131,210,760
+Public Assembly - Library,410,179,89,6,125,168,213,892
+Public Assembly - Recreation,325,223,183,7,96,177,282,1447
+Public Assembly - Arena,12,232,93,65,206,237,272,374
+Public Assembly - Stadium,17,280,222,19,222,237,305,866
+Public Assembly - Social/meeting,105,173,101,3,109,145,210,483
+Public Assembly - Funeral home,0,,,,,,,
+Public Assembly - Pool,31,244,277,43,91,153,273,1487
+Public Assembly - Other,229,230,178,23,127,176,281,1415
+Education - Uncategorized,806,113,86,9,67,92,134,1089
+Education - College or university,1022,248,194,2,138,200,283,1914
+Education - Elementary or middle school,5426,101,46,3,80,97,115,1578
+Education - High school,1083,110,35,16,90,107,127,541
+Education - Preschool or daycare,158,140,88,19,92,129,172,865
+Education - Other classroom,5284,121,67,4,85,107,138,1628
+Food Service - Uncategorized,3992,846,231,3,724,837,955,2866
+Food Service - Fast food,94,920,548,31,480,914,1327,2641
+Food Service - Restaurant or cafeteria,1612,1132,402,9,924,1145,1386,2440
+Food Service - Bakery,0,,,,,,,
+Food Service - Other,22,444,326,4,137,427,716,1012
+Nursing Home,498,218,102,30,148,199,270,944
+Lodging - Uncategorized,78,161,138,4,78,133,201,946
+Lodging - Dormitory or fraternity/sorority,766,139,104,1,99,125,167,1993
+Lodging - Hotel,1588,202,104,4,142,189,242,2483
+Lodging - Motel or inn,54,142,62,36,91,132,179,319
+Lodging - Other,180,186,108,4,121,152,220,921
+Retail - Uncategorized,17001,231,128,4,133,210,312,2557
+Retail - Strip shopping mall,336,210,147,5,109,187,277,1533
+Retail - Enclosed mall,166,209,142,4,106,189,291,717
+Retail - Other than mall,111,193,206,5,80,141,245,1442
+Retail - Small Box (< 50K sf),159,227,102,21,173,234,281,744
+Retail - Big Box (> 50K sf),1372,155,49,21,121,141,177,561
+Retail - Vehicle dealership/showroom,69,233,274,5,113,178,228,1885
+Service - Uncategorized,134,236,331,9,83,149,243,2668
+Service - Post office or postal center,4749,185,96,4,131,169,217,2245
+Service - Repair shop,17,156,79,27,108,145,197,329
+Service - Vehicle service/repair shop,338,176,155,2,70,128,234,986
+Service - Vehicle storage,0,,,,,,,
+Service - Industrial shop,0,,,,,,,
+Service - Dry-cleaning or Laundry,0,,,,,,,
+Service - Art/Video/Photography Studio,0,,,,,,,
+Service - Other service,375,238,339,1,99,156,236,2852
+Parking Garage,1145,141,156,2,68,116,162,2428
+Transportation Terminal,123,479,633,9,154,278,454,2857
+Industrial,245,278,458,2,53,109,292,3089
+Agricultural,0,,,,,,,
+Data Center,169,515,678,4,114,191,602,3118
+Commercial - Other,2854,282,323,2,112,184,321,3010
+Single Family - Uncategorized,515349,66,33,3,44,60,80,1699
+Single Family - Attached,812,88,76,7,47,69,104,703
+Single Family - Detached,10275,96,70,3,55,82,118,1057
+Manufactured Home,2416,62,35,7,42,56,73,682
+2-4 Unit Building,1024,86,28,17,70,83,97,332
+5+ Unit Building,1212,109,47,23,78,102,132,607
+Multifamily - Uncategorized,15884,123,65,2,93,117,144,2695
+Multifamily - Town Homes,0,,,,,,,
+Multifamily - Condominiums,0,,,,,,,
+Apartment Unit,138582,55,27,2,37,51,68,1023
+Residential - Other,579,144,98,2,86,125,182,1034
+Residential - Unknown,21414,78,34,3,56,73,93,579
+Mixed Use - Commercial and Residential,501,211,219,3,93,150,252,2128
+Mixed Use - Predominantly Commercial,74,140,113,5,62,122,176,558
+Mixed Use - Predominantly Residential,44,118,46,21,88,106,138,241
